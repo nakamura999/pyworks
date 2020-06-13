@@ -1,3 +1,5 @@
+# BMI判定プログラム
+
 while True:
 	height = input('身長(m)?:')
 	if len(height) == 0:
