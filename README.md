@@ -1,4 +1,4 @@
-# book / python スタートブック
+# python-学習
 
 ### プログラムファイル
 - janken.py    ジャンケンプログラム
